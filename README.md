@@ -1,5 +1,14 @@
 # Missing TypeScript Functions
 
+---
+
+**DEPRECATION NOTICE:**
+
+This repository is archived and will not get any updates.
+Use https://github.com/jschirrmacher/useful-typescript-functions instead.
+
+---
+
 A useful collection of functions missing in TypeScript.
 
 - [**diff** two complex objects](#diff)
